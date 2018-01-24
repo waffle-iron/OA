@@ -1,3 +1,6 @@
-# OverarachingTeams
-[OVERACHING]
-Requirements, Quality Assurance, Usability Design &amp; Assessment
+# Overarching Teams
+
+### Overarching Teams
++ Requirements
++ Quality Assurance
++ Usability Design &amp; Assessment
